@@ -1,0 +1,23 @@
+{
+  "name": "javascript_chat",
+  "version": "1.0.0",
+  "description": "javascript irc bootleg",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricken999k/javascript_chat.git"
+  },
+  "author": "ricken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricken999k/javascript_chat/issues"
+  },
+  "homepage": "https://github.com/ricken999k/javascript_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
